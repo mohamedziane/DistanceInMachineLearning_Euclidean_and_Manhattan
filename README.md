@@ -52,7 +52,7 @@ Applications of Manhattan distance metric include:
 Now let's create distributions of these distance metrics and compare them. We leverage the scipy dist function to create these matrices similar to how you manually created them earlier in the exercise.
 
 <p align="center">
-  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/DistanceInMachineLearning_Euclidean_and_Manhattan/main/images/img5.png">
+  <img width="1000" height="600" src="https://raw.githubusercontent.com/mohamedziane/DistanceInMachineLearning_Euclidean_and_Manhattan/main/images/img5.png">
 </p>
 
 ## 5. Bonus: Cosine Similarity
