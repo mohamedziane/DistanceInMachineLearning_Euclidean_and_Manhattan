@@ -1,5 +1,5 @@
 
-# Euclidean and Manhattan Distance Calculations
+# Euclidean and Manhattan Distance Calculations & Cosine Similarity
 
 
 <p align="center">
@@ -55,7 +55,7 @@ Now let's create distributions of these distance metrics and compare them. We le
   <img width="1000" height="600" src="https://raw.githubusercontent.com/mohamedziane/DistanceInMachineLearning_Euclidean_and_Manhattan/main/images/img5.png">
 </p>
 
-## 5. Bonus: Cosine Similarity
+## 5. Cosine Similarity
 
 Cosine similarity calculates similarity by measuring the cosine of angle between two vectors.
 
